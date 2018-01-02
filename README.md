@@ -1,6 +1,8 @@
 eMerge Americas 2016 Hackathon
 ==============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ironhack/emerge-hackathon.svg)](https://greenkeeper.io/)
+
 Welcome to the **eMerge Americas 2016** Hackathon.
 This document is meant to provide general information about the event
 for participants.
